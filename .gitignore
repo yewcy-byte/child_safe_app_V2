@@ -1,0 +1,85 @@
+**/build/
+**/.gradle/
+**/.dart_tool/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Local secret-bearing configuration
+/android/local.properties
+/android/app/google-services.json
+/android/app/src/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/macos/Runner/GoogleService-Info.plist
+
+# Environment and secret files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Local diagnostic/runtime logs
+*_verify_log*.txt
+*runtime_log*.txt
+*crash_log*.txt
+*projection_log*.txt
+*scanner_stability*.txt
+*post_*_log*.txt
+
+
+
+# Specific Android Build Artifacts (Fixes the 100MB error)
+**/android/app/build/
+**/android/build/
+**/android/.gradle/
+**/android/app/src/main/jniLibs/
+*.apk
+*.so
+*.aab

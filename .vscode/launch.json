@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Physical Device (ELE L29)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "53F5T19426000767",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "Emulator (Android 16)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "emulator-5554",
+      "flutterMode": "debug"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Run Both Devices",
+      "configurations": [
+        "Physical Device (ELE L29)",
+        "Emulator (Android 16)"
+      ]
+    }
+  ]
+}
