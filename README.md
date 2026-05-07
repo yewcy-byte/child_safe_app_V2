@@ -64,19 +64,19 @@ GuardianLens combines live content detection, behavior monitoring, and parent ac
 
 ### Child App Features
 
-<kbd>![Snackies Reward Screen](assets/githubImages/child_reward_snackies.png)</kbd>
-<kbd>![Today's Garden Gamification](assets/githubImages/child_garden_reward.png)</kbd>
-<kbd>![Reward Marketplace](assets/githubImages/child_market_rewards.png)</kbd>
-<kbd>![Unsafe Content Blocking](assets/githubImages/child_blocked_page.png)</kbd>
+<kbd>![Main Dashboard with Gamified Tomato Plant](assets/githubImages/child%20main%20dashboard%20with%20gamified%203D%20tomato%20plant%20system%20to%20encourage%20child%20to%20avoid%20inappropriate%20content%20%28child%20app%29.jpg)</kbd>
+<kbd>![Real-time Screening Status](assets/githubImages/child%20real%20time%20screening%20status%20%28child%20app%29.jpg)</kbd>
+<kbd>![Tomato Marketplace](assets/githubImages/tomato%20market%20place%20for%20children%20to%20purchase%20more%20screentime%20and%20custom%20gifts%20from%20parents%28child%20app%29.jpg)</kbd>
+<kbd>![Inappropriate Content Detections](assets/githubImages/inappropriate%20content%20detections%20%28child%20app%29.jpg)</kbd>
+<kbd>![Unsafe Content Overlay](assets/githubImages/overlay%20when%20porno%20detected%20%28child%20app%29.jpg)</kbd>
+<kbd>![App Time Limit Exceeded](assets/githubImages/app%20time%20limit%20exceeded%20%28child%20app%29.jpg)</kbd>
 
 ### Parent App Features
 
-<kbd>![Home Dashboard](assets/githubImages/parent_home.png)</kbd>
-<kbd>![Protection Status & Configuration](assets/githubImages/parent_status.png)</kbd>
-<kbd>![Control Panel](assets/githubImages/parent_control.png)</kbd>
-<kbd>![Detection Logs](assets/githubImages/parent_detections.png)</kbd>
-<kbd>![AI Consultant](assets/githubImages/parent_ai_consultant.png)</kbd>
-<kbd>![Location Tracking](assets/githubImages/child_location.png)</kbd>
+<kbd>![Parent Main Dashboard](assets/githubImages/parent%20main%20dashboard%20showing%20all%20child%20connected%20%28parent%20app%29.jpg)</kbd>
+<kbd>![Child Screen Control Panel](assets/githubImages/child%20screen%20control%20options%20panel%20%28parent%20app%29.jpg)</kbd>
+<kbd>![AI Consultant](assets/githubImages/ai%20consultant%20parent%20app.jpg)</kbd>
+<kbd>![Child Location Tracker](assets/githubImages/child%20location%20tracker%20using%20cloud%20function%20%28parent%20app%29.jpg)</kbd>
 
 ## Privacy and Safety Principles
 
