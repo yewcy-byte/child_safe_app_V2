@@ -60,6 +60,24 @@ GuardianLens combines live content detection, behavior monitoring, and parent ac
 - Battery optimization handling and background permission flows
 - Device/app metadata support for monitoring insights
 
+## App Screenshots
+
+### Child App Features
+
+<kbd>![Snackies Reward Screen](assets/githubImages/child_reward_snackies.png)</kbd>
+<kbd>![Today's Garden Gamification](assets/githubImages/child_garden_reward.png)</kbd>
+<kbd>![Reward Marketplace](assets/githubImages/child_market_rewards.png)</kbd>
+<kbd>![Unsafe Content Blocking](assets/githubImages/child_blocked_page.png)</kbd>
+
+### Parent App Features
+
+<kbd>![Home Dashboard](assets/githubImages/parent_home.png)</kbd>
+<kbd>![Protection Status & Configuration](assets/githubImages/parent_status.png)</kbd>
+<kbd>![Control Panel](assets/githubImages/parent_control.png)</kbd>
+<kbd>![Detection Logs](assets/githubImages/parent_detections.png)</kbd>
+<kbd>![AI Consultant](assets/githubImages/parent_ai_consultant.png)</kbd>
+<kbd>![Location Tracking](assets/githubImages/child_location.png)</kbd>
+
 ## Privacy and Safety Principles
 
 - AI inference is designed to run on-device for sensitive content analysis
