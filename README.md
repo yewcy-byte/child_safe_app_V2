@@ -74,7 +74,7 @@ GuardianLens combines live content detection, behavior monitoring, and parent ac
 | | | |
 |:---:|:---:|:---:|
 | <kbd><img src="assets/githubImages/parent%20main%20dashboard%20showing%20all%20child%20connected%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Main Dashboard** | <kbd><img src="assets/githubImages/child%20screen%20control%20options%20panel%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Control Panel** | <kbd><img src="assets/githubImages/ai%20consultant%20parent%20app.jpg" width="200"/></kbd><br/>**AI Consultant** |
-| <kbd><img src="assets/githubImages/child%20location%20tracker%20using%20cloud%20function%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Location Tracking** | | |
+| <kbd><img src="assets/githubImages/child%20location%20tracker%20using%20cloud%20function%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Location Tracking** | <kbd><img src="assets/githubImages/child%20screentime%20analysis%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Child Screentime Statistics** | <kbd><img src="assets/githubImages/custoized%20reward%20for%20the%20tomato%20shop%20%28parent%20app%29.jpg" width="200"/></kbd><br/>**Custom Reward** |
 
 ## Privacy and Safety Principles
 
